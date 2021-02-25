@@ -8,3 +8,9 @@ Images were drawn by me. Feel free to reuse.
 [My Video Summary](https://www.youtube.com/watch?v=eAnNGqwI2AQ)
 
 [Full Article](https://supermemo.guru/wiki/Pleasure_of_learning)
+
+## Examples
+
+### Anki
+
+<p align="center"><img src="https://github.com/bjsi/PleasureOfLearning/raw/master/examples/anki.png"></p>
