@@ -13,4 +13,4 @@ Images were drawn by me. Feel free to reuse.
 
 ### Anki
 
-<p align="center"><img src="https://github.com/bjsi/PleasureOfLearning/raw/master/examples/anki.png"></p>
+<p align="center"><img src="https://github.com/bjsi/PleasureOfLearning/blob/main/examples/anki.png?raw=true"></p>
