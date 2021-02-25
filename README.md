@@ -17,9 +17,8 @@ Images were drawn by me. Feel free to reuse.
 4. Import!
 
 For SuperMemo, make sure you set File : Level to "Warrior" so you can use File : Import : XML to import the XML file.
-You may need to manually change.
 
-Right click on the imported branch. Select "Process Branch", "Learning", and "Remember", to move the items from the pending queue to your outstanding queue.
+After importing, in the knowledge tree right click on the parent element that contains the imported items. Select "Process Branch", "Learning", and "Remember", to move the items from the pending queue to your outstanding queue.
 
 ## Examples
 
