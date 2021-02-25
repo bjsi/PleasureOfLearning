@@ -9,6 +9,15 @@ Images were drawn by me. Feel free to reuse.
 
 [Full Article](https://supermemo.guru/wiki/Pleasure_of_learning)
 
+## Instructions
+
+1. Go to the [releases](https://github.com/bjsi/PleasureOfLearning/releases/latest) page.
+2. Download the zip file for Anki or SuperMemo.
+3. Extract.
+4. Import!
+
+For SuperMemo, make sure you set File : Level to "Warrior" so you can use File : Import : XML to import the XML file.
+
 ## Examples
 
 ### Anki
