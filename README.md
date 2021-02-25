@@ -14,3 +14,7 @@ Images were drawn by me. Feel free to reuse.
 ### Anki
 
 <p align="center"><img src="https://github.com/bjsi/PleasureOfLearning/blob/main/examples/anki.png?raw=true"></p>
+
+### SuperMemo
+
+<p align="center"><img src="https://github.com/bjsi/PleasureOfLearning/blob/main/examples/sm.png?raw=true"></p>
